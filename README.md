@@ -5,8 +5,8 @@
 **Engineering Student · ISIC @ ENSAJ El Jadida**  
 *Building things at the intersection of AI, Mobile & Cybersecurity*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajae_Elkamili-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Gmail](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajae_Elkamili-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajae-elkamili)
+[![Gmail](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ilimakilimakrajae@gmail.com)
 
 </div>
 
