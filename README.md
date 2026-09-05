@@ -96,7 +96,7 @@ Most of my work revolves around Python, Java, Flutter and Machine Learning.
 | [🎬 CineMax](https://github.com/rajaeelkamili/CineMaX) | Movie explorer with AI chatbot, NFC sharing & 6 live sensors | Android Java · TMDB · TFLite |
 | [🏨 JEE — Hotel & Club](https://github.com/rajaeelkamili/Projet_JEE_Rajae_Houda) | Two Spring Boot apps: hotel reservation + sports club REST API | Spring Boot · JPA · Thymeleaf |
 | [🔐 RaHo Tech](https://github.com/rajaeelkamili/gestion-besoins-raho-tech) | Internal request management system with role-based workflow | PHP · MySQL · Bootstrap |
-
+| 🚚 PBF Manager (Private) | Full-stack platform for SONASID's steel plant — weighbridge (SAP data import), automated team scheduling, and daily operations reporting | FastAPI · React · SQLAlchemy · SQLite |
 ---
 
 ## Experience
