@@ -117,6 +117,7 @@ My background also spans full-stack and mobile development, which I bring into h
 ## Experience
 
 🏭 **Generative AI & Software Engineering Intern** — OCP Group
+
 🔐 **Cybersecurity Intern** — SONASID
 
 ---
