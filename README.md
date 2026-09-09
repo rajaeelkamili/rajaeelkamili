@@ -93,11 +93,11 @@ My background also spans full-stack and mobile development, which I bring into h
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏭 Co-pilote Agentique JFC4 (Private — OCP internship) | Agentic co-pilot for plant operators — RAG retrieval, HSE checklist generation, incident reporting | Qwen2.5 · ChromaDB · BM25 · FastAPI · React |
-| [🤖 RAG & Agentic AI with LangChain](#) | Hybrid RAG retrieval + tool-calling agent, benchmarked against a custom-built pipeline | LangChain · Ollama · FAISS |
+| [🤖 RAG & Agentic AI with LangChain](https://github.com/rajaeelkamili/rag-agentic-langchain) | Hybrid RAG retrieval + tool-calling agent, benchmarked against a custom-built pipeline | LangChain · Ollama · FAISS |
 | [🫁 Pneumonia Detection](https://github.com/SHIR-Team/DeepLearning_Project_2025) | CNN-based chest X-ray classifier with FastAPI backend + Streamlit UI | TensorFlow · FastAPI · Streamlit |
-| [💬 Sentiment LSTM Classifier](#) | Bidirectional LSTM for sentiment analysis — documented iteration from underfitting to overfitting to a validated result via early stopping | PyTorch |
-| [🔢 Digits CNN Classifier](#) | CNN built from scratch for image classification | PyTorch |
-| [🚢 Titanic Survival Classifier](#) | Classic ML classification — data cleaning, encoding, stratified evaluation | scikit-learn |
+| [💬 Sentiment LSTM Classifier](https://github.com/rajaeelkamili/sentiment-lstm-classifier) | Bidirectional LSTM for sentiment analysis — documented iteration from underfitting to overfitting to a validated result via early stopping | PyTorch |
+| [🔢 Digits CNN Classifier](https://github.com/rajaeelkamili/digits-cnn-classifier) | CNN built from scratch for image classification | PyTorch |
+| [🚢 Titanic Survival Classifier](https://github.com/rajaeelkamili/titanic-survival-classifier) | Classic ML classification — data cleaning, encoding, stratified evaluation | scikit-learn |
 | [📡 LoRaWAN Simulation](https://github.com/rajaeelkamili/LPWAN-Simulation) | 12-scenario LPWAN simulation — 25 graphs + interactive Streamlit UI | Python · NumPy · Matplotlib |
 
 **Full-stack & Mobile**
