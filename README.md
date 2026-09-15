@@ -89,19 +89,20 @@ My background also spans full-stack and mobile development, which I bring into h
 ## 🚀 Featured Projects
 
 **AI / ML**
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏭 Co-pilote Agentique JFC4 (Private — OCP internship) | Agentic co-pilot for plant operators — RAG retrieval, HSE checklist generation, incident reporting | Qwen2.5 · ChromaDB · BM25 · FastAPI · React |
+| [🎯 PFE Search Assistant](https://github.com/rajaeelkamili/pfe-search-assistant) | Agentic tool combining job/profile matching, RAG over my own portfolio, and cover letter generation — built to solve my own PFE search | LangChain · Ollama · FastAPI · scikit-learn |
+| [🚀 MLOps: Digits Classifier Deployment](https://github.com/rajaeelkamili/mlops-digits-deployment) | End-to-end deployment: MLflow experiment tracking, FastAPI serving, Docker containerization | PyTorch · MLflow · FastAPI · Docker |
 | [🤖 RAG & Agentic AI with LangChain](https://github.com/rajaeelkamili/rag-agentic-langchain) | Hybrid RAG retrieval + tool-calling agent, benchmarked against a custom-built pipeline | LangChain · Ollama · FAISS |
 | [🫁 Pneumonia Detection](https://github.com/SHIR-Team/DeepLearning_Project_2025) | CNN-based chest X-ray classifier with FastAPI backend + Streamlit UI | TensorFlow · FastAPI · Streamlit |
 | [💬 Sentiment LSTM Classifier](https://github.com/rajaeelkamili/sentiment-lstm-classifier) | Bidirectional LSTM for sentiment analysis — documented iteration from underfitting to overfitting to a validated result via early stopping | PyTorch |
 | [🔢 Digits CNN Classifier](https://github.com/rajaeelkamili/digits-cnn-classifier) | CNN built from scratch for image classification | PyTorch |
 | [🚢 Titanic Survival Classifier](https://github.com/rajaeelkamili/titanic-survival-classifier) | Classic ML classification — data cleaning, encoding, stratified evaluation | scikit-learn |
 | [📡 LoRaWAN Simulation](https://github.com/rajaeelkamili/LPWAN-Simulation) | 12-scenario LPWAN simulation — 25 graphs + interactive Streamlit UI | Python · NumPy · Matplotlib |
-
+ 
 **Full-stack & Mobile**
-
+ 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🚚 PBF Manager (Private — SONASID) | Full-stack platform for a steel plant — weighbridge with SAP data import, automated team scheduling, daily operations reporting | FastAPI · React · SQLAlchemy · SQLite |
@@ -111,9 +112,9 @@ My background also spans full-stack and mobile development, which I bring into h
 | [🎬 CineMax](https://github.com/rajaeelkamili/CineMaX) | Movie explorer with AI chatbot, NFC sharing & 6 live sensors | Android Java · TMDB · TFLite |
 | [🏨 JEE — Hotel & Club](https://github.com/rajaeelkamili/Projet_JEE_Rajae_Houda) | Two Spring Boot apps: hotel reservation + sports club REST API | Spring Boot · JPA · Thymeleaf |
 | [🔐 RaHo Tech](https://github.com/rajaeelkamili/gestion-besoins-raho-tech) | Internal request management system with role-based workflow | PHP · MySQL · Bootstrap |
-
+ 
 ---
-
+ 
 ## Experience
 
 🏭 **Generative AI & Software Engineering Intern** — OCP Group
