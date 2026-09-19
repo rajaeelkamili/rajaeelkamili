@@ -89,6 +89,7 @@ My background also spans full-stack and mobile development, which I bring into h
 ## 🚀 Featured Projects
 
 **AI / ML**
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏭 Co-pilote Agentique JFC4 (Private — OCP internship) | Agentic co-pilot for plant operators — RAG retrieval, HSE checklist generation, incident reporting | Qwen2.5 · ChromaDB · BM25 · FastAPI · React |
@@ -100,9 +101,9 @@ My background also spans full-stack and mobile development, which I bring into h
 | [🔢 Digits CNN Classifier](https://github.com/rajaeelkamili/digits-cnn-classifier) | CNN built from scratch for image classification | PyTorch |
 | [🚢 Titanic Survival Classifier](https://github.com/rajaeelkamili/titanic-survival-classifier) | Classic ML classification — data cleaning, encoding, stratified evaluation | scikit-learn |
 | [📡 LoRaWAN Simulation](https://github.com/rajaeelkamili/LPWAN-Simulation) | 12-scenario LPWAN simulation — 25 graphs + interactive Streamlit UI | Python · NumPy · Matplotlib |
- 
+
 **Full-stack & Mobile**
- 
+
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🚚 PBF Manager (Private — SONASID) | Full-stack platform for a steel plant — weighbridge with SAP data import, automated team scheduling, daily operations reporting | FastAPI · React · SQLAlchemy · SQLite |
@@ -112,9 +113,9 @@ My background also spans full-stack and mobile development, which I bring into h
 | [🎬 CineMax](https://github.com/rajaeelkamili/CineMaX) | Movie explorer with AI chatbot, NFC sharing & 6 live sensors | Android Java · TMDB · TFLite |
 | [🏨 JEE — Hotel & Club](https://github.com/rajaeelkamili/Projet_JEE_Rajae_Houda) | Two Spring Boot apps: hotel reservation + sports club REST API | Spring Boot · JPA · Thymeleaf |
 | [🔐 RaHo Tech](https://github.com/rajaeelkamili/gestion-besoins-raho-tech) | Internal request management system with role-based workflow | PHP · MySQL · Bootstrap |
- 
+
 ---
- 
+
 ## Experience
 
 🏭 **Generative AI & Software Engineering Intern** — OCP Group
@@ -125,7 +126,7 @@ My background also spans full-stack and mobile development, which I bring into h
 
 <div align="center">
 
-*Final year ISIC Engineering Student @ ENSA El Jadida*  
+*Final year ISIC Engineering Student @ ENSAJ El Jadida*  
 *Trilingual — Arabic · French · English*
 
 </div>
