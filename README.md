@@ -6,7 +6,7 @@
 *Final-year Engineering student building intelligent systems — from RAG and agentic AI to full-stack products that put them to use.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajae_Elkamili-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajae-elkamili)
-[![Gmail](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ilimakilimakrajae@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:elkamilirajae@gmail.com)
 
 </div>
 
@@ -92,7 +92,7 @@ My background also spans full-stack and mobile development, which I bring into h
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏭 Co-pilote Agentique JFC4 (Private — OCP internship) | Agentic co-pilot for plant operators — RAG retrieval, HSE checklist generation, incident reporting | Qwen2.5 · ChromaDB · BM25 · FastAPI · React |
+| 🏭 Co-pilote Agentique JFC4 (Private — OCP internship) | Agentic co-pilot for plant operators: RAG retrieval, HSE checklist generation, incident reporting, multi-agent audit simulator, ML deviation detection | Qwen2.5 · ChromaDB · BM25 · FastAPI · React |
 | [🎯 PFE Search Assistant](https://github.com/rajaeelkamili/pfe-search-assistant) | Agentic tool combining job/profile matching, RAG over my own portfolio, and cover letter generation — built to solve my own PFE search | LangChain · Ollama · FastAPI · scikit-learn |
 | [🚀 MLOps: Digits Classifier Deployment](https://github.com/rajaeelkamili/mlops-digits-deployment) | End-to-end deployment: MLflow experiment tracking, FastAPI serving, Docker containerization | PyTorch · MLflow · FastAPI · Docker |
 | [🤖 RAG & Agentic AI with LangChain](https://github.com/rajaeelkamili/rag-agentic-langchain) | Hybrid RAG retrieval + tool-calling agent, benchmarked against a custom-built pipeline | LangChain · Ollama · FAISS |
@@ -101,6 +101,7 @@ My background also spans full-stack and mobile development, which I bring into h
 | [🔢 Digits CNN Classifier](https://github.com/rajaeelkamili/digits-cnn-classifier) | CNN built from scratch for image classification | PyTorch |
 | [🚢 Titanic Survival Classifier](https://github.com/rajaeelkamili/titanic-survival-classifier) | Classic ML classification — data cleaning, encoding, stratified evaluation | scikit-learn |
 | [📡 LoRaWAN Simulation](https://github.com/rajaeelkamili/LPWAN-Simulation) | 12-scenario LPWAN simulation — 25 graphs + interactive Streamlit UI | Python · NumPy · Matplotlib |
+| 🎙️ SoundScope (Private — group project) | Real-time speech analysis platform — live transcription, AI summaries, per-speaker voice identification, web and mobile clients | Whisper · Vosk · Groq · GMM · FastAPI · React · React Native |
 
 **Full-stack & Mobile**
 
@@ -113,12 +114,21 @@ My background also spans full-stack and mobile development, which I bring into h
 | [🎬 CineMax](https://github.com/rajaeelkamili/CineMaX) | Movie explorer with AI chatbot, NFC sharing & 6 live sensors | Android Java · TMDB · TFLite |
 | [🏨 JEE — Hotel & Club](https://github.com/rajaeelkamili/Projet_JEE_Rajae_Houda) | Two Spring Boot apps: hotel reservation + sports club REST API | Spring Boot · JPA · Thymeleaf |
 | [🔐 RaHo Tech](https://github.com/rajaeelkamili/gestion-besoins-raho-tech) | Internal request management system with role-based workflow | PHP · MySQL · Bootstrap |
+| 🧾 ERP/CRM — AuraTech (Group) | Odoo Community ERP/CRM for an IT services company, with AI integration | Odoo · Python · PostgreSQL |
 
 ---
 
 ## Experience
 
 🏭 **Generative AI & Software Engineering Intern** — OCP Group
+
+🔐 **Cybersecurity Intern** — SONASID
+
+---
+
+## Certifications
+
+**Cybersecurity, AI, HTML** — Cisco
 
 🔐 **Cybersecurity Intern** — SONASID
 
