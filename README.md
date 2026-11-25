@@ -130,8 +130,6 @@ My background also spans full-stack and mobile development, which I bring into h
 
 **Cybersecurity, AI, HTML** — Cisco
 
-🔐 **Cybersecurity Intern** — SONASID
-
 ---
 
 <div align="center">
